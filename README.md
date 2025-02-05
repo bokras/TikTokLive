@@ -53,7 +53,7 @@ channel for questions, contributions and ideas.
 1. Install the module via pip from the [PyPi](https://pypi.org/project/TikTokLive/) repository
 
 ```shell script
-pip install TikTokLive
+pip install git+https://github.com/bokras/TikTokLive.git
 ```
 
 2. Create your first chat connection
